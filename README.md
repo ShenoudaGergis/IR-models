@@ -1,5 +1,5 @@
 ### IR Models
-An application simulate the process of searching pages over Internet
+An application simulates the process of searching pages over Internet
 
 ### User interface
 *Main application interface*<br/>
